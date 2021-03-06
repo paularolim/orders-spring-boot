@@ -2,7 +2,6 @@ package com.paularolim.springorders.resources;
 
 import com.paularolim.springorders.entities.Order;
 import com.paularolim.springorders.services.OrderService;
-import org.aspectj.weaver.ast.Or;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
